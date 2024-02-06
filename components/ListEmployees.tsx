@@ -48,9 +48,9 @@ const ListEmployees = () => {
     return (
         data &&
         <>
-            <Link href='/employee/create' color='foreground' className="flex gap-2 self-start font-semibold items-center bg-success-300 rounded-md py-2 px-3 mb-3">
-                <FaPlus />
-                <p>Add Employee</p>
+            <Link href='/employee/create' color='foreground' className="flex gap-2 self-start font-semibold items-center bg-success rounded-md py-2 px-3 mb-3 text-foreground">
+                <FaPlus color='white'/>
+                <p className='text-white'>Add Employee</p>
             </Link>
 
             <Table aria-label="employee" isStriped radius='md'>
