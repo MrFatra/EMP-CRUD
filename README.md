@@ -1,27 +1,21 @@
-# Next.js & NextUI Template
+# Employee Manager
 
-This is a template for creating applications using Next.js 13 (app directory) and NextUI (v2).
+This is a simple employee manager application built using Next.js (app dir) & NextUI (v2).
 
 ## Technologies Used
 
-- [Next.js 13](https://nextjs.org/docs/getting-started)
+- [Next.js 14](https://nextjs.org/docs/getting-started)
 - [NextUI v2](https://nextui.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Tailwind Variants](https://tailwind-variants.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [next-themes](https://github.com/pacocoursey/next-themes)
+- [swr](https://swr.vercel.app/)
+- [axios](https://axios-http.com/)
+- [mongoose](https://mongoosejs.com/)
 
 ## How to Use
-
-
-### Use the template with create-next-app
-
-To create a new project based on this template using `create-next-app`, run the following command:
-
-```bash
-npx create-next-app -e https://github.com/nextui-org/next-app-template
-```
 
 ### Install dependencies
 
@@ -34,6 +28,8 @@ npm install
 ```bash
 npm run dev
 ```
+
+I love contributions! Please feel free to make pull requests or open issues if you have any questions, & ideas. Thank you for your appreciation. See ya!
 
 ## License
 
